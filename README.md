@@ -1,6 +1,6 @@
-# Minimal Mistakes remote theme starter
+# Alex and Christina's Family Website
 
-Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+I originally forked this from the minimal mistakes repo. From here down is the original content from there, to be replaced later.
 
 Contains basic configuration to get you a site with:
 
