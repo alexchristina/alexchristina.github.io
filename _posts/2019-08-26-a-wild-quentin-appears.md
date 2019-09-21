@@ -1,17 +1,17 @@
 ---
-title: "Post: Standard"
+title: "A Wild Quentin Appears!"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Quentin
 ---
-
 
 Text here
 
+He went 8 days past his due date, but he's finally here. Quentin Bowman McCoy, born August 26th, 2019.
+
+![Cute Quentin!](/assets/images/00100lPORTRAIT_00100_BURST20190828103130836_COVER.jpg)
 
 <!--more-->
 
