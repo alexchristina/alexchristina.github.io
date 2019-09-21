@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alex and Christina
-email:
+title: McCoy/Bowman Family
+email: alex@alexjmccoy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  We have adventures.
+#twitter_username: username
+github_username: alexchristina
 #minimal_mistakes_skin: default
 minimal_mistakes_skin: air
 search: true
@@ -59,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Alex and Christina"
+  avatar : "/assets/images/ajm-cmb-bio.jpg"
+  bio    : "Based on Kent Island in the Chesapeake Bay."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -107,6 +105,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # home
+#  - scope:
+#      path: ""
+#      type: home
+#    values:
+#      layout: home
+#      author_profile: true
 
 category_archive:
   type: liquid

@@ -29,5 +29,8 @@ We brought him home on Tuesday and let Ava lick his head and feet, thereby welco
 
 Since then he's been nursing and sleeping like a little champ. Everyone warned us how difficult the first week would be but so far he's taking it quite easy on us. Hopefully that continues!
 
-![](00000PORTRAIT_00000_BURST20190827092423690.jpg
-MVIMG_20190826_095557.jpg)
+We sure are happy.
+
+![](/assets/images/00000PORTRAIT_00000_BURST20190827092423690.jpg)
+
+![](/assets/images/MVIMG_20190826_095557.jpg)
