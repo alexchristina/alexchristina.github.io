@@ -13,5 +13,5 @@ and our cats, Gimlin and Declan.
 
 ![Mirror cats](/assets/images/gimli-declan.jpg)
 
-We have been married since 2014 and [had our son]{% post_url 2019-08-26-a-wild-quentin-appears.md %}, Quentin, on August 26th, 2019.
+We have been married since 2014 and [had our son](https://www.mccoybowman.com/blog/a-wild-quentin-appears/), Quentin, on August 26th, 2019.
 
