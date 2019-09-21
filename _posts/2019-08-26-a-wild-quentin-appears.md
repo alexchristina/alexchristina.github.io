@@ -1,6 +1,5 @@
 ---
 title: "A Wild Quentin Appears!"
-excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:

@@ -1,0 +1,85 @@
+* Alex and Christina Website
+** Setting up the computer
+*** Install Git  
+The first step to being able to edit the website on your computer is to install git:
+**** Optional: Install Jekyll for local website editing
+This is nice so you don't have to push your website to Github every time you want to see how your site looks
+
+*** Configure your local directory
+
+*** Clone your blog into the local directory
+
+** Blogging
+
+*** How to create a post
+
+Posts are for blog-style updates with dates. They are stored in the ~_posts~ directory of our website folder with the format:
+
+~`yyyy-mm-dd-post-title.md~
+
+So let's first navigate to our directory with:
+
+~cd ~/blogs/alexandchristina.github.io/_posts~
+
+Now that we're in the right directory,  let's make a new post with our text editor and call it ~2019-08-26-a-wild-quentin-appears.md~.
+
+/Optional:/ It might be easier to copy an existing file as a kind of template. For example, we can use the ~standard~ template by executing:
+
+~cp 2019-01-01-standard.md 2019-08-26-a-wild-quentin-appears.md~
+
+Which copies a good starting template to a new file with our desired file name.
+
+Now let's edit our file. At the top is the *Front Matter* which tells Jekyll some important info. It's pretty intuitive to edit this stuff. Make sure the title is correct and, since we're writing a blog post about Quentin, add a Quentin tag.
+
+Now we're ready to edit the main body of the website!
+
+*** Writing our blog!
+
+Everything under the ~---~ in the front matter is fair game for editing our blog. So, just type some text!
+
+He went 8 days past his due date, but he's finally here. Quentin Bowman McCoy, born August 26th, 2019.
+
+[[Cute Quentin][/assets/images/00100lPORTRAIT_00100_BURST20190828103130836_COVER.jpg]
+
+He had an uncomplicated (but very lengthy!) delivery and came out perfectly healthy, crying at the top of his little lungs.
+
+MVIMG_20190826_071830.jpg
+Mom was tired but was also as healthy as could be.
+
+MVIMG_20190826_071958.jpg
+
+I got to trim the umbilical cord, trying to focus through tears of joy.
+
+MVIMG_20190826_071851.jpg
+We brought him home on Tuesday and let Ava lick his head and feet, thereby welcoming him into our pack.
+
+MVIMG_20190827_192454.jpg
+
+Since then he's been nursing and sleeping like a little champ. Everyone warned us how difficult the first week would be but so far he's taking it quite easy on us. Hopefully that continues! Christina and I wish you could have met him in person. Thank you for being such great landlord-friends and neighbors. I'm a new dad so I'll probably send you a bunch more photos until it gets annoying. Hope everything is great in the midwest!
+
+Love, 
+
+Alex, Christina, Quentin, Ava, Declan, & Gimli
+
+P.S. The cats have been mostly ambivalent, though I imagine they're not happy to have to share their new favorite sleeping locales: Q's bassinet and crib.
+
+00000PORTRAIT_00000_BURST20190827092423690.jpg
+MVIMG_20190826_095557.jpg
+
+So everything below the ~---~ is fair game for text and images. Text is easy, we just type what we want. So, let's enter the following text into our blog post:
+
+He went 8 days past his due date, but he's finally here. Quentin Bowman McCoy, born August 26th, 2019.
+
+This text will be automatically rendered on our webpage, which is cool.
+
+**** Adding images
+
+I wish I could say that images are just "drag and drop" but unfortunately they're a bit fussy. Once you get used to it, it's not so bad. The short answer is that all images for our website live in the ~/assets/images~ folder in the root of our blog, so:
+
+~/home/alzxjm/blogs/alexchristina.github.io/assets/images~
+
+You don't have to type that every time: you can just start with the ~/assets~ part and go forward from there. So, to add a photo, we use the Markdown syntax:
+
+~![Image Title](/path/to/image.jpg)~. If we want to insert an image into our page, we write:
+
+~![Cute Quentin!](/assets/images/cute-quentin-early.jpg)~
