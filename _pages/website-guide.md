@@ -107,9 +107,9 @@ So let's first navigate to our directory with:
 
 Now that we're in the right directory,  let's make a new post with our text editor and call it `2019-09-22-mommys-birthday.md`.
 
-*Optional: It might be easier to copy an existing file as a kind of template. For example, we can use the* `standard` *template by executing:*
+*Optional: It might be easier to use a draft template. Drafts are* `.md` *files with no date. They live in the* `_drafts` *folder. For example, we can use the* `standard.md` *template by executing the following command from our blog's root directory:*
 
-`cp 2019-01-01-standard.md 2019-08-26-a-wild-quentin-appears.md`
+`cp _drafts/standard.md _posts/2019-09-22-mommys-birthday.md`
 
 *Which copies a good starting template to a new file with our desired file name.*
 
