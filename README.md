@@ -11,6 +11,7 @@
         1.  [Configuring local directory](#orgb1baffe)
         2.  [Installing and configuring git](#org03bca32)
         3.  [Configuring your text editor](#editor)
+			4.  [Setting up Atom](#atom)
 2.  [Making web pages](#org0d2f53a)
     1.  [Overview of the blog structure](#org22460e7)
     2.  [The Github workflow](#org2e301fc)
@@ -207,19 +208,21 @@ You’ll notice that the usage is slightly different for Jekyll than it was for 
 
 <a id="org0d2f53a"></a>
 
+
+<a id="editor"></a>
+
 ### Configuring your text editor
 You need a text editor to work with your local blog. You have two main options:
 
 1. **Nano** - a primitive but simple text editor that's not terrible for small edits. Usage is dead simple and works in your termninal. If you want to edit a text file with nano, you simply open up your terminal and run `nano file.txt`. This will open up the file in your terminal. You make your edits, and when you're done, hit **Ctrl+X** to close the file and save when prompted. 
 2. **Atom** - Github's editor. I think this is what you should use. It will give you a kind of development environment for your local. Blog. Getting it setup on the Pixelbook isn't trivial, but once it's done it shouldn't be too bad. Here's how to do it.
 
-<a id="editor"></a>
+<a id="atom"></a>
 
 #### Setting up Atom
 
 I adapted the instructions from [atom's website](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html). You have already completed the first few steps, so you can skip to **3. Installing Atom**. Click [this link](https://atom.io/download/deb) and save the file to your home folder in the Linux files section.
 
-<a id="atom"></a>
 
 # Making web pages
 
