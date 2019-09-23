@@ -217,7 +217,7 @@ You need a text editor to work with your local blog. You have two main options:
 
 #### Setting up Atom
 
-I adapted the instructions from [atom's website](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html). You have already completed the first few steps, so you can skip to **3. Installing Atom**. Click [this link](https://atom.io/download/deb) and save the file to your home folder in the Linux files section.
+I adapted the instructions from [atom's website](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html). You have already completed the first few steps, so you can skip to **3. Installing Atom**. Click [this link](https://atom.io/download/deb) and save the file to your home folder in the Linux files section.fLyMd-mAkEr
 
 <a id="atom"></a>
 
