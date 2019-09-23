@@ -11,7 +11,7 @@
         1.  [Configuring local directory](#orgb1baffe)
         2.  [Installing and configuring git](#org03bca32)
         3.  [Configuring your text editor](#editor)
-			4.  [Setting up Atom](#atom)fLyMd-mAkEr
+			1.  [Setting up Atom](#atom)
 2.  [Making web pages](#org0d2f53a)
     1.  [Overview of the blog structure](#org22460e7)
     2.  [The Github workflow](#org2e301fc)
@@ -22,7 +22,7 @@
         2.  [Writing blog posts](#org28984e7)
     4.  [How to edit and create pages](#orgd544cd0)
 
-The guide outlines how to use our family blog from start to finish, including setting up a new computer to manage the blog locally, edit the blog, and push the changes to Github.
+The guide outlines how to use our family blog from start to finish, including setting up a new computer to manage the blog locally, edit the blog, and push the changes to Github.fLyMd-mAkEr
 
 
 <a id="orgca7c89e"></a>

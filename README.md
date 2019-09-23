@@ -11,7 +11,7 @@
         1.  [Configuring local directory](#orgb1baffe)
         2.  [Installing and configuring git](#org03bca32)
         3.  [Configuring your text editor](#editor)
-	4.  [Setting up Atom](#atom)
+			1.  [Setting up Atom](#atom)
 2.  [Making web pages](#org0d2f53a)
     1.  [Overview of the blog structure](#org22460e7)
     2.  [The Github workflow](#org2e301fc)
