@@ -11,7 +11,7 @@
         1.  [Configuring local directory](#orgb1baffe)
         2.  [Installing and configuring git](#org03bca32)
         3.  [Configuring your text editor](#editor)
-			4.  [Setting up Atom](#atom)
+			4.  [Setting up Atom](#atom)fLyMd-mAkEr
 2.  [Making web pages](#org0d2f53a)
     1.  [Overview of the blog structure](#org22460e7)
     2.  [The Github workflow](#org2e301fc)
@@ -221,7 +221,7 @@ You need a text editor to work with your local blog. You have two main options:
 
 #### Setting up Atom
 
-I adapted the instructions from [atom's website](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html). You have already completed the first few steps, so you can skip to **3. Installing Atom**. Click [this link](https://atom.io/download/deb) and save the file to your home folder in the Linux files section.fLyMd-mAkEr
+I adapted the instructions from [atom's website](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html). You have already completed the first few steps, so you can skip to **3. Installing Atom**. Click [this link](https://atom.io/download/deb) and save the file to your home folder in the Linux files section.
 
 
 # Making web pages
