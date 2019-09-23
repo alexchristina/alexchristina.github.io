@@ -17,6 +17,7 @@
     2.  [The Github workflow](#org2e301fc)
         1.  [Making sure your local directory is up-to-date](#orgfc62aa9)
         2.  [Pushing our website to Github Pages](#org69d8526)
+        3.  [Advanced: using atom's built-in Github package.](#atom-github)
     3.  [Blog posts](#orgb5c4004)
         1.  [Creating a new post](#org2d1a67c)
         2.  [Writing blog posts](#org28984e7)
@@ -205,10 +206,6 @@ You’ll notice that the usage is slightly different for Jekyll than it was for 
 
 ### Installing and configuring git
 
-
-<a id="org0d2f53a"></a>
-
-
 <a id="editor"></a>
 
 ### Configuring your text editor
@@ -221,18 +218,27 @@ You need a text editor to work with your local blog. You have two main options:
 
 #### Setting up Atom
 
-I adapted the instructions from [atom's website](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html). You have already completed the first few steps, so you can skip to **3. Installing Atom**. Click [this link](https://atom.io/download/deb) and save the file to your home folder in the Linux files section.
+I adapted the instructions from [atom's website](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html). You have already completed the first few steps, so you can skip to **3. Installing Atom**. 
 
+1. Click [this link](https://atom.io/download/deb) and save the file to your home folder in the Linux files section.
+2. Using the **Files** app, navigate to the `.deb` installer and install by double-clicking.
+3. Launch `atom` using your Pixelbook's launcher.
+
+This is your text editor. It is infinitely customizable, but to get quickly started, simply close any of the initial welcome windows you see and open your blog's **Project Folder** using the **File** menu or with **Ctrl+Shift+o**.
+
+You will now see your blog's directory tree on the left side. This is cool, as you can navigate throughout and open files as you need. So, to work with a post, expand the `_posts` folder, find the `.md` file you want, and open it!
+
+The last nifty thing you can do is setup a live Markdown preview. When you're editing a `.md` file, simply hit **Ctrl+Shift+m** to see a live preview of your page!
+
+<a id="org0d2f53a"></a>
 
 # Making web pages
-
 
 <a id="org22460e7"></a>
 
 ## Overview of the blog structure
 
 (Todo)
-
 
 <a id="org2e301fc"></a>
 
@@ -263,6 +269,11 @@ Once you've made your changes, it's time to see how they look on the Internet ve
 
 And that's it! The website should now be available to view at [https://www.mccoybowman.com](https://www.mccoybowman.com)
 
+
+<a id="atom-github"></a?
+
+### Advanced: using atom's built-in Github package.
+Todo
 
 <a id="orgb5c4004"></a>
 
