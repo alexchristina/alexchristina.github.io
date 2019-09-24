@@ -10,11 +10,14 @@
     3.  [Setting up local instance of the blog](#orgf8ed47d)
         1.  [Configuring local directory](#orgb1baffe)
         2.  [Installing and configuring git](#org03bca32)
+        3.  [Configuring your text editor](#editor)
+			1.  [Setting up Atom](#atom)
 2.  [Making web pages](#org0d2f53a)
     1.  [Overview of the blog structure](#org22460e7)
     2.  [The Github workflow](#org2e301fc)
         1.  [Making sure your local directory is up-to-date](#orgfc62aa9)
         2.  [Pushing our website to Github Pages](#org69d8526)
+        3.  [Advanced: using atom's built-in Github package.](#atom-github)
     3.  [Blog posts](#orgb5c4004)
         1.  [Creating a new post](#org2d1a67c)
         2.  [Writing blog posts](#org28984e7)
@@ -194,7 +197,6 @@ You’ll notice that the usage is slightly different for Jekyll than it was for 
 
 ## Setting up local instance of the blog
 
-
 <a id="orgb1baffe"></a>
 
 ### Configuring local directory
@@ -204,18 +206,39 @@ You’ll notice that the usage is slightly different for Jekyll than it was for 
 
 ### Installing and configuring git
 
+<a id="editor"></a>
+
+### Configuring your text editor
+You need a text editor to work with your local blog. You have two main options:
+
+1. **Nano** - a primitive but simple text editor that's not terrible for small edits. Usage is dead simple and works in your termninal. If you want to edit a text file with nano, you simply open up your terminal and run `nano file.txt`. This will open up the file in your terminal. You make your edits, and when you're done, hit **Ctrl+X** to close the file and save when prompted. 
+2. **Atom** - Github's editor. I think this is what you should use. It will give you a kind of development environment for your local. Blog. Getting it setup on the Pixelbook isn't trivial, but once it's done it shouldn't be too bad. Here's how to do it.
+
+<a id="atom"></a>
+
+#### Setting up Atom
+
+I adapted the instructions from [atom's website](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html). You have already completed the first few steps, so you can skip to **3. Installing Atom**. 
+
+1. Click [this link](https://atom.io/download/deb) and save the file to your home folder in the Linux files section.
+2. Using the **Files** app, navigate to the `.deb` installer and install by double-clicking.
+3. Launch `atom` using your Pixelbook's launcher.
+
+This is your text editor. It is infinitely customizable, but to get quickly started, simply close any of the initial welcome windows you see and open your blog's **Project Folder** using the **File** menu or with **Ctrl+Shift+o**.
+
+You will now see your blog's directory tree on the left side. This is cool, as you can navigate throughout and open files as you need. So, to work with a post, expand the `_posts` folder, find the `.md` file you want, and open it!
+
+The last nifty thing you can do is setup a live Markdown preview. When you're editing a `.md` file, simply hit **Ctrl+Shift+m** to see a live preview of your page!
 
 <a id="org0d2f53a"></a>
 
 # Making web pages
-
 
 <a id="org22460e7"></a>
 
 ## Overview of the blog structure
 
 (Todo)
-
 
 <a id="org2e301fc"></a>
 
@@ -241,11 +264,16 @@ Once you've made your changes, it's time to see how they look on the Internet ve
 
 1.  Make sure you're in your website's home directory, i.e `/blogs/alexchristina.github.io`.
 2.  Run the command `git add .`. This scans the git directory for any new files and marks them to be uploaded.
-3.  Now run `git commit -m "Mommy birthday blog post"` which tells Github to commit the changes you've made and stage them to be pushed.
+3.  Now run `git commit -m "Mommy birthday blog post"` which tells Github to commit the changes you've made and stage them to be pushed. The comment in quotes is just for us humans so we can remember what changes were made when we changes something. You can add anything you like here.
 4.  Finally, execute: `git push origin master` which actually does the pushing. It will ask you for your Github credentials at this point.
 
 And that's it! The website should now be available to view at [https://www.mccoybowman.com](https://www.mccoybowman.com)
 
+
+<a id="atom-github"></a>
+
+### Advanced: using atom's built-in Github package.
+Todo
 
 <a id="orgb5c4004"></a>
 
