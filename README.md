@@ -264,13 +264,13 @@ Once you've made your changes, it's time to see how they look on the Internet ve
 
 1.  Make sure you're in your website's home directory, i.e `/blogs/alexchristina.github.io`.
 2.  Run the command `git add .`. This scans the git directory for any new files and marks them to be uploaded.
-3.  Now run `git commit -m "Mommy birthday blog post"` which tells Github to commit the changes you've made and stage them to be pushed.
+3.  Now run `git commit -m "Mommy birthday blog post"` which tells Github to commit the changes you've made and stage them to be pushed. The comment in quotes is just for us humans so we can remember what changes were made when we changes something. You can add anything you like here.
 4.  Finally, execute: `git push origin master` which actually does the pushing. It will ask you for your Github credentials at this point.
 
 And that's it! The website should now be available to view at [https://www.mccoybowman.com](https://www.mccoybowman.com)
 
 
-<a id="atom-github"></a?
+<a id="atom-github"></a>
 
 ### Advanced: using atom's built-in Github package.
 Todo
