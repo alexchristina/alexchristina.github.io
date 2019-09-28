@@ -179,12 +179,12 @@ Jekyll is a **Gem**, which is a self-contained program/library written in **Ruby
 
 So, what we’re going to do now is add a few lines to our `.bashrc` file that tells the current terminal where to find our **Gems**. One-by-one, type in the following commands, hitting enter after each one:
 
-\`\`\`
+```
 $ echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
 $ echo 'export GEM<sub>HOME</sub>="$HOME/gems"' >> ~/.bashrc
 $ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 $ source ~/.bashrc
-\`\`\`
+```
 
 That out of the way, we can install Jekyll!
 
