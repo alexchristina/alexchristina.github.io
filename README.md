@@ -159,6 +159,7 @@ The terminal will show you a whole bunch of text, and ask you if you want to con
 And now you should see a version number, which indicates that the program is installed. Success! We can now proceed with installing **GCC** and **Make** by entering:
 
 `$ sudo apt-get install build-essential`
+`$ sudo apt-get install zlib1g-dev`
 
 If you like, confirm the installation by using:
 
