@@ -202,6 +202,33 @@ You’ll notice that the usage is slightly different for Jekyll than it was for 
 
 ### Configuring local directory
 
+I like to have my blog live in a folder in my home directory called `blogs`. This directory houses my personal website and our joint website. So do:
+
+`mkdir blogs && cd blogs`
+
+Now we clone our site into this directory from Github. Run:
+
+`git clone https://github.com/alexchristina/alexchristina.github.io.git`
+
+Which creates a new directory, `alexchristina.github.io` in `~/blogs`.
+
+*By the way! In Linux,* `~` *is a shortcut for* `/home/username/` *so the syntax* `~/blogs/` *is the same thing as* `/home/username/blogs`.
+
+Now, `cd` into this directory:
+
+`cd alexchristina.github.io`
+
+and view its contents with `ls`:
+
+`ls`
+
+which should give you a readout like:
+
+`assets       _data         index_default.html  _pages     _site`
+`CNAME        Gemfile       index.html          _posts         ~
+~_config.yml  Gemfile.lock  index-splash.html   README.md`
+
+This is your website! It doesn't look like it yet, but it is!
 
 <a id="org03bca32"></a>
 
