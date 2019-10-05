@@ -1,6 +1,6 @@
 ---
 permalink: /thankyou/
-title: "Thank You"
+title: "Thanks for subscribing!"
 ---
 
 ![Picture Title](/assets/images/thankyou.gif)
