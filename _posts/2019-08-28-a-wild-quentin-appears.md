@@ -9,7 +9,6 @@ tags:
 He went 8 days past his due date, but he's finally here. Quentin Bowman McCoy, born August 26th, 2019.
 
 ![Cute Quentin!](/assets/images/cute-quentin-early.jpg)
-<img src="/assets/images/cute-quentin-early.jpg" width="200">
 
 He had an uncomplicated (but very lengthy!) delivery and came out perfectly healthy, crying at the top of his little lungs.
 
