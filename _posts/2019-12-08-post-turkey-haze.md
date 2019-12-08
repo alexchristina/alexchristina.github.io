@@ -6,9 +6,9 @@ tags:
   - Quentin
 ---
 
-## Week 13
+## Phew...
 
-Phew... got through our 3 thanksgivings. This week was a bit more relaxed, but also included quite a few Quentin firsts.
+Got through our 3 thanksgivings. This week was a bit more relaxed, but also included quite a few Quentin firsts.
 
 Alex and I are doing what is called Baby Led Weaning in terms of introducing food into his diet. This includes letting Q start exploring food and his motor skills by putting easy to pick up foods in front of him. Here he is starting down his first piece of broccoli.
 
