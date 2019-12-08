@@ -14,8 +14,6 @@ Alex and I are doing what is called Baby Led Weaning in terms of introducing foo
 
 ![Picture Title](/assets/images/broccoli.jpg)
 
-Here he is with a few more foods on a subsequent dinner, this time at Grandma Carol's house.
-
 <p>
 </p>
 
@@ -23,6 +21,8 @@ Here he is with a few more foods on a subsequent dinner, this time at Grandma Ca
 
 <p>
 </p>
+
+Here he is with a few more foods on a subsequent dinner, this time at Grandma Carol's house.
 
 ![Picture Title](/assets/images/eating.jpg)
 
