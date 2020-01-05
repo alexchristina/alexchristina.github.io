@@ -8,6 +8,7 @@ tags:
 ---
 
 ## Merry Christmas
+
 Hello! Quentin had his first Christmas this year, and he also is officially 4 months old! It's been a whirlwind of events over the past week.
 
 On Christmas Eve, we spent the night at my dad's house in Mardela Springs. Here Q is on Christmas morning opening his first Christmas present.
@@ -40,4 +41,4 @@ We want to thank everyone for the wonderful gifts Quentin recieved this year. He
 
 ![Picture Title](/assets/images/puppy.jpg)
 
-Now we are all going to take a nice long nap. Phew! 
+Now we are all going to take a nice long nap. Phew!
