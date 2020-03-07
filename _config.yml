@@ -121,8 +121,6 @@ tag_archive:
   path: /tags/
 
 comments:
-  provider: "facebook"
-  facebook:
-    appid: # optional
-    num_posts: 15
-    colorscheme: light # "dark"
+  provider: "disqus"
+  disqus:
+    shortname: "mccoybowman"
