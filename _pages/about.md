@@ -7,7 +7,7 @@ Hello and welcome to our blog! Since Alex and Christina do not use a lot of soci
 
 The three of us, Christina, Alex, and Quentin, live on Kent Island in the Chesapeake Bay...
 
-![On our morning walk](/assets/images/family-at-the-dock.jpg)
+![Picture Title](/assets/images/kentmorr.jpg)
 
 with our dog, Ava...
 
