@@ -1,0 +1,51 @@
+---
+title: "Some Nice Fresh (cold) Air!"
+categories:
+  - Blog
+tags:
+  - Quentin
+---
+
+# January 17th - February 11th
+
+Ahh! Time got away from me this time. It's been almost a month since my last post! Lots of fun things to report!
+
+## Outside Time
+
+Even though it has started to get a bit colder, Q still enjoys his time outside.
+
+Here is Q and Daddy atop the playground near our house.
+
+![Picture Title](/assets/images/alexandqpark1.jpg)
+
+Running up and down!
+
+![Picture Title](/assets/images/alexandqpark2.jpg)
+
+We also had some great snow days!
+
+![Picture Title](/assets/images/qsnow1.JPG)
+
+![Picture Title](/assets/images/qsnow2.JPG)
+
+Alex captured both Q and Ava with this beautiful sunset background.
+
+![Picture Title](/assets/images/sunsetqava.JPG)
+
+## House Projects & Visits
+
+Ba-Ba has come by the last few weekends to help out with some house stuff.
+
+Here is Alex getting ready to go into the crawl space!
+
+![Picture Title](/assets/images/alexunderhouse.jpg)
+
+We also got to visit Grandpa Bowman in Mardella Springs. While there, Alex and I got to try out their Oculus!
+
+![Picture Title](/assets/images/oculus.jpg)
+
+Well... that is a lot of stuff that we have been up to this past month. I will leave you all now with a nice snuggly Quentin and Mema picture.
+
+![Picture Title](/assets/images/memaqsleeping.jpg)
+
+See you next time!
