@@ -56,7 +56,11 @@ We also got to go out on Kim's dad's boat!
 
 ![Picture Title](/assets/images/qboat2.jpeg)
 
+<!--
 ![Picture Title](/assets/images/qmomboat1.jpeg)
+-->
+
+![Q and Mom in Boat](/assets/images/77E1D11A-9E09-41A0-95D3-80A316578D28.jpeg)
 
 ## Kent Island VFD Carnival
 
@@ -96,9 +100,11 @@ Playing hide and go seek in the slide at Idlewild park.
 
 ![Picture Title](/assets/images/IMG_0968.jpeg)
 
+<!--
 <img src="/assets/images/IMG_0968.jpeg" alt="Q in Slide" width="2000"/>
 
 `<img src="/assets/images/IMG_0968.jpeg" alt="Q in Slide" width="2000"/>`
+-->
 
 Having dinner at Doc's Bar and Grill on the water in Oxford MD. PS: check out the clam closely!
 
