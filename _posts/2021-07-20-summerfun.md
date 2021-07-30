@@ -96,7 +96,6 @@ Playing hide and go seek in the slide at Idlewild park.
 
 ![Picture Title](/assets/images/qinslide.jpeg)
 
-
 <img src="/assets/images/qinslide.jpeg" alt="Quentin on a slide" width="2316" height="3088">
 
 Having dinner at Doc's Bar and Grill on the water in Oxford MD. PS: check out the clam closely!
