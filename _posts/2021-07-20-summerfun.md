@@ -96,6 +96,10 @@ Playing hide and go seek in the slide at Idlewild park.
 
 ![Picture Title](/assets/images/IMG_0968.jpeg)
 
+<img src="/assets/images/IMG_0968.jpeg" alt="Q in Slide" width="2000"/>
+
+`<img src="/assets/images/IMG_0968.jpeg" alt="Q in Slide" width="2000"/>`
+
 Having dinner at Doc's Bar and Grill on the water in Oxford MD. PS: check out the clam closely!
 
 ![Picture Title](/assets/images/eyesonclam.jpeg)
