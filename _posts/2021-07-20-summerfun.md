@@ -52,9 +52,11 @@ I had my yearly beach party with work, and there were some kayaks we could use. 
 
 ![Picture Title](/assets/images/qkayak1.JPG)
 
-![Picture Title](/assets/images/qmomboat1.jpeg)
+We also got to go out on Kim's dad's boat!
 
 ![Picture Title](/assets/images/qboat2.jpeg)
+
+![Picture Title](/assets/images/qmomboat1.jpeg)
 
 ## Kent Island VFD Carnival
 
@@ -93,6 +95,9 @@ Hanging out at Grandpa Phil's pool.
 Playing hide and go seek in the slide at Idlewild park.
 
 ![Picture Title](/assets/images/qinslide.jpeg)
+
+
+<img src="/assets/images/qinslide.jpeg" alt="Quentin on a slide" width="2316" height="3088">
 
 Having dinner at Doc's Bar and Grill on the water in Oxford MD. PS: check out the clam closely!
 
